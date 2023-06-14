@@ -2,8 +2,9 @@ Hello! ᓚᘏᗢ
 
 My name is Ana Lira and...
 
-⫯ I'm a student at UNICAP (University Catholic of Pernambuco).
+⫯ I live in Recife, Pernambuco, Brazil;
 
+⪼ I'm twenty years old and had my first contact with programming in High School, being part of the robotics competitive team.
 ⪼ I'm currently learning Java, and its my main programming language. I also am a begginer in Python and C++.
 
   <div>
