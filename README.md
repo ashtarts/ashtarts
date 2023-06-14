@@ -4,22 +4,22 @@ My name is 𝘼𝙣𝙖 𝙇𝙞𝙧𝙖 and... ⫯ I live in 𝑹𝒆𝒄𝒊�
 
 ⪼ I'm twenty years old and had my first contact with programming in High School, being part of the robotics competitive team;
 
-⪼ I'm currently learning 𝙅𝙖𝙫𝙖, and its my main programming language. I also am a begginer in Python and C++ [...]
-Im fluent in English, and I'm currently learning French;
+⪼ I'm currently learning 𝙅𝙖𝙫𝙖, and its my main programming language. I also am a begginer in 𝑷𝒚𝒕𝒉𝒐𝒏 and 𝑪++ [...]
+Im fluent in 𝑬𝒏𝒈𝒍𝒊𝒔𝒉, and I'm currently learning 𝑭𝒓𝒆𝒏𝒄𝒉;
 
-⪼ About me: On my free time I like to play video games, listem to music and read books;
+⪼ About me: On my free time I like to play video games, liste to music and read books;
 
   <div>
   <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=ashtarts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <div>  
     
-  Main Skills:
+ 𝕄𝕒𝕚𝕟 𝕊𝕜𝕚𝕝𝕝𝕤:
   <div>
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  <div>
-  Main Tools:
+  𝕄𝕒𝕚𝕟 𝕋𝕠𝕠𝕝𝕤:
      <div>
        <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
     <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
@@ -27,7 +27,7 @@ Im fluent in English, and I'm currently learning French;
      <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
  
  <div>
-Contact:
+ℂ𝕠𝕟𝕥𝕒𝕔𝕥:
 
    <a href="https://www.instagram.com/ashtarts" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
    <a href="mailto:anadelira1001@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
