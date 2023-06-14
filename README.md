@@ -1,6 +1,4 @@
-Hello! ᓚᘏᗢ
-
-My name is Ana Lira and... ⫯ I live in Recife, Pernambuco, Brazil;
+Hello! ᓚᘏᗢ     [...] My name is Ana Lira and... ⫯ I live in Recife, Pernambuco, Brazil;
 
 ⪼ I'm twenty years old and had my first contact with programming in High School, being part of the robotics competitive team;
 
@@ -25,9 +23,9 @@ Im fluent in English, and I'm currently learning French;
     <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
      <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
  
-
-  ________________________________ 
  <div>
+Contact:
+
    <a href="https://www.instagram.com/ashtarts" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
    <a href="mailto:anadelira1001@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
    <a href="https://www.linkedin.com/in/ana-lira-1103b7246/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
