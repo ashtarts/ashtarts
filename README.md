@@ -4,7 +4,7 @@ My name is 𝘼𝙣𝙖 𝙇𝙞𝙧𝙖 and... ⫯ I live in 𝑹𝒆𝒄𝒊�
 
 ⪼ I'm twenty years old and had my first contact with programming in High School, being part of the robotics competitive team;
 
-⪼ I'm currently learning Java, and its my main programming language. I also am a begginer in Python and C++ [...]
+⪼ I'm currently learning 𝙅𝙖𝙫𝙖, and its my main programming language. I also am a begginer in Python and C++ [...]
 Im fluent in English, and I'm currently learning French;
 
 ⪼ About me: On my free time I like to play video games, listem to music and read books;
