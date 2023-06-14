@@ -10,7 +10,7 @@ Im fluent in English, and I'm currently learning French;
 ⪼ About me: On my free time I like to play video games, listem to music and read books;
 
   <div>
-  <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=ashtarts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=ashtarts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <div>  
     
   Main Skills:
