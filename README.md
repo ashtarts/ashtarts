@@ -4,9 +4,8 @@ My name is Ana Lira and... ⫯ I live in Recife, Pernambuco, Brazil;
 
 ⪼ I'm twenty years old and had my first contact with programming in High School, being part of the robotics competitive team;
 
-⪼ I'm currently learning Java, and its my main programming language. I also am a begginer in Python and C++;
-
-⪼ Im fluent in English, and I'm currently learning French;
+⪼ I'm currently learning Java, and its my main programming language. I also am a begginer in Python and C++ [...]
+Im fluent in English, and I'm currently learning French;
 
 ⪼ About me: On my free time I like to play video games, listem to music and read books;
 
@@ -14,13 +13,17 @@ My name is Ana Lira and... ⫯ I live in Recife, Pernambuco, Brazil;
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ashtarts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <div>  
     
-  
+  Main Skills:
   <div>
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  <div>
-
+  Main Tools:
+     <div>
+    <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+    <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+     <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
  
 
   ________________________________ 
