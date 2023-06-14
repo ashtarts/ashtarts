@@ -1,4 +1,6 @@
-Hello! ᓚᘏᗢ     [...] My name is Ana Lira and... ⫯ I live in Recife, Pernambuco, Brazil;
+Hello! ᓚᘏᗢ    
+
+My name is Ana Lira and... ⫯ I live in Recife, Pernambuco, Brazil;
 
 ⪼ I'm twenty years old and had my first contact with programming in High School, being part of the robotics competitive team;
 
