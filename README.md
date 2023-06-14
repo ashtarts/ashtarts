@@ -21,6 +21,7 @@ Im fluent in English, and I'm currently learning French;
  <div>
   Main Tools:
      <div>
+       <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
     <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
     <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
      <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
