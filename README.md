@@ -7,7 +7,7 @@ My name is 𝘼𝙣𝙖 𝙇𝙞𝙧𝙖 and... ⫯ I live in 𝑹𝒆𝒄𝒊�
 ⪼ I'm currently learning 𝙅𝙖𝙫𝙖, and its my main programming language. I also am a begginer in 𝑷𝒚𝒕𝒉𝒐𝒏 and 𝑪++ [...]
 Im fluent in 𝑬𝒏𝒈𝒍𝒊𝒔𝒉, and I'm currently learning 𝑭𝒓𝒆𝒏𝒄𝒉;
 
-⪼ About me: On my free time I like to play video games, liste to music and read books;
+⪼ About me: On my free time I like to play video games, listen to music and read books;
 
   <div>
   <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=ashtarts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
