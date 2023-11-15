@@ -15,8 +15,6 @@
 
 ⪼ About me: On my free time I like to play video games, listen to music and read books;
 
-ps: vão ver meus codigos dos Jogos de "Jogo da Velha" e "Forca"!!!
-
   <div>
   <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=ashtarts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <div>  
