@@ -13,8 +13,6 @@
 
 ⪼ Im fluent in 𝑬𝒏𝒈𝒍𝒊𝒔𝒉; Lived in the United States for 7 months. I am a former Exchange Student, I passed the Pernambuco state government test with top marks <a href="https://www.instagram.com/GanheoMundoPE/">@ProgramaGanheOMundo
 
-⪼ Here´s my Portfolio: https://ashtarts.github.io/portfolio/
-
 ⪼ About me: On my free time I like to play video games, listen to music and read books
 
   <div>
