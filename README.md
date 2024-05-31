@@ -7,7 +7,7 @@
 
 ⫯ I live in 𝑹𝒆𝒄𝒊𝒇𝒆, 𝑷𝒆𝒓𝒏𝒂𝒎𝒃𝒖𝒄𝒐, 𝑩𝒓𝒂𝒛𝒊𝒍
 
-⪼ I'm twenty years old and had my first contact with programming in High School, being part of the robotics competitive team
+⪼ I'm twenty-one years old and had my first contact with programming in High School, being part of the robotics competitive team
 
 ⪼ I'm currently learning 𝙅𝙖𝙫𝙖, and its my main programming language. I also am a begginer in 𝑷𝒚𝒕𝒉𝒐𝒏 and 𝑪++ 
 
