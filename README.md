@@ -9,7 +9,7 @@
 
 ⪼ I'm twenty-one years old and had my first contact with programming in High School, being part of the robotics competitive team
 
-⪼ I'm currently getting started in frontend, already know HTML and CSS and am starting with REACT and REACT-NATIVE [...] I am a backend developer, whose main programing language is JAVA and is a beginer in PYTHON and C++
+⪼ I'm currently an Intern at F5ADS, a frontend dev [...] Im also a backend dev, my main language is Java, but I also have some knowledge in Python and C++
 
 ⪼ Im fluent in 𝑬𝒏𝒈𝒍𝒊𝒔𝒉; Lived in the United States for 7 months. I am a former Exchange Student, I passed the Pernambuco state government test with top marks <a href="https://www.instagram.com/GanheoMundoPE/">@ProgramaGanheOMundo
 
