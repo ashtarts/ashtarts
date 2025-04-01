@@ -7,7 +7,7 @@
 
 ⫯ I live in 𝑹𝒆𝒄𝒊𝒇𝒆, 𝑷𝒆𝒓𝒏𝒂𝒎𝒃𝒖𝒄𝒐, 𝑩𝒓𝒂𝒛𝒊𝒍
 
-⪼ I'm twenty-one years old and had my first contact with programming in High School, being part of the robotics competitive team
+⪼ I'm twenty-two years old and had my first contact with programming in High School, being part of the robotics competitive team
 
 ⪼ I'm currently a frontend dev at F5ADS [...] Im also a backend dev, my main language is Java, but I also have some knowledge in Python and C++
 
