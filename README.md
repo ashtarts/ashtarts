@@ -5,14 +5,6 @@
 
 𝓗𝓮𝓵𝓵𝓸! ᓚᘏᗢ
 
-⫯ I live in 𝑹𝒆𝒄𝒊𝒇𝒆, 𝑷𝒆𝒓𝒏𝒂𝒎𝒃𝒖𝒄𝒐, 𝑩𝒓𝒂𝒛𝒊𝒍
-
-⪼ I'm twenty-two years old and had my first contact with programming in High School, being part of the robotics competitive team
-
-⪼ I'm currently a frontend dev at F5ADS [...] Im also a backend dev, my main language is Java, but I also have some knowledge in Python and C++
-
-⪼ Im fluent in 𝑬𝒏𝒈𝒍𝒊𝒔𝒉; Lived in the United States for 7 months. I am a former Exchange Student, I passed the Pernambuco state government test with top marks <a href="https://www.instagram.com/GanheoMundoPE/">@ProgramaGanheOMundo
-
   <div>
   <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=ashtarts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <div>  
